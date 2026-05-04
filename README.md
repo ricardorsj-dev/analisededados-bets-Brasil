@@ -1,4 +1,5 @@
-![Capa do Projeto](capa.png)
+<img width="1536" height="1024" alt="capa png" src="https://github.com/user-attachments/assets/1232b4be-51e5-49ba-bf0a-4452b7051c21" />
+
 
 # 📊 Análise do Crescimento das Bets no Brasil e Impactos Sociais
 
