@@ -1,3 +1,5 @@
+![Capa do Projeto](capa.png)
+
 # 📊 Análise do Crescimento das Bets no Brasil e Impactos Sociais
 
 ## 📌 Visão Geral
@@ -47,6 +49,8 @@ A análise combina técnicas de **data analysis, visualização de dados e machi
 ├── main.py
 ├── insights.md
 └── README.md
+|__ cap.png
+
 ```
 
 ---
